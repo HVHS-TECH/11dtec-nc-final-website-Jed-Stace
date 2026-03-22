@@ -6,6 +6,10 @@
 }
 
 .NavBar {
-    background: #3c6e71;
-    padding: 30px;
+    border-radius: 25px;
+    background-color: #3c6e71;
+    padding: 20px;
+    width: 135px;
+    height: 40px;
+    align-items: center;
 }
