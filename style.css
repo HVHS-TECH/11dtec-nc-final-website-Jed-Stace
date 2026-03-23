@@ -12,6 +12,7 @@
   width: min(1000px, 90%);
   margin: auto;
   justify-items: center;
+  margin-top: auto;
 }
 
 html, body {
@@ -29,9 +30,6 @@ body {
     padding: 10px;
 }
 
-.grid-container {
-  margin-top: auto;
-}
 
 .NavBar {
     border-radius: 25px;
@@ -41,3 +39,6 @@ body {
     height: 40px;
 }
 
+.Information {
+    
+}
