@@ -9,7 +9,9 @@
   display: grid;
   grid-template-columns: repeat(3, minmax(180px, 1fr));
   gap: 20px;
-  width: 100%;
+  width: min(1000px, 90%);
+  margin: auto;
+  justify-items: center;
 }
 
 html, body {
