@@ -40,5 +40,6 @@ body {
 }
 
 .Information {
-    
+    display: grid;
+    margin-right: 400px;
 }
