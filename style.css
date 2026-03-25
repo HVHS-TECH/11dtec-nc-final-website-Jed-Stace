@@ -43,3 +43,15 @@ body {
     display: grid;
     margin-right: 400px;
 }
+
+.logo-container {
+  display: flex;         
+  align-items: center;  
+  gap: 20px;            
+  justify-content: center;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+}
