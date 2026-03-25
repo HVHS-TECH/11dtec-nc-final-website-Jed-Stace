@@ -50,3 +50,13 @@ body {
   width: 100px;
   height: auto;
 }
+
+.tvlogo-container {
+  position: relative;
+}
+
+.tvread-more { 
+  position: absolute;
+  top: 460px;
+  right: 480px;
+}
