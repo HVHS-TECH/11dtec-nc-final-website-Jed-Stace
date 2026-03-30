@@ -32,6 +32,8 @@
   margin: 0 auto;
   margin-top: 40px;
   text-align: center;
+  font-size: 0.85rem;
+  font-family: Trebuchet, sans-serif;
 }
 
 html, body {
