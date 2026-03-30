@@ -15,6 +15,13 @@
   margin-top: auto;
 }
 
+.containerTV {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
 .Welcome {
   display: flex;
   justify-content: center;
