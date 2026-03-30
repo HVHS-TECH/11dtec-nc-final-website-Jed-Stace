@@ -65,20 +65,8 @@ body {
   position: relative;
 }
 
-.tvread-more { 
-  position: absolute;
-  top: 640px;
-  right: 590px;
-}
-
 .musicread-container {
   position: relative;
-}
-
-.musicread-more {
-  position: absolute;
-  top: 70px;
-  right: -5px;
 }
 
 .hover-img {
