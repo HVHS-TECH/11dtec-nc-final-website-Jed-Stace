@@ -15,12 +15,11 @@
   margin-top: auto;
 }
 
-.containerTV {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 20vh;
-    flex-direction: column;
+.TV-paragraphs {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
 }
 
 .Welcome {
