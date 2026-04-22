@@ -143,3 +143,9 @@ body {
   font-size: 0.9rem;
   font-weight: bold;
 }
+
+.tvyoutube {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
